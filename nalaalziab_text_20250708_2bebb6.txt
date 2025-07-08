@@ -1,0 +1,6 @@
+bootstrap4_project/
+├── index.html
+├── css/
+│   └── style.css
+├── images/ (optional)
+└── README.md (optional)
